@@ -23,7 +23,7 @@
     "test": "node_modules/mocha/bin/_mocha test/*.js --reporter spec"
   },
   "dependencies": {
-    "angular-extender": "~0.1.1",
+    "angular-extender": "https://github.com/natejacksonsdi/angular-extender/tarball/master",
     "gulp-util": "~2.2.14",
     "through2": "~0.4.1"
   },
